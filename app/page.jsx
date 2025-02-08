@@ -20,7 +20,7 @@ const Home = () => {
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
 
-            I'm a software developer and UI/UX designer, combining technical expertise with a passion for creating intuitive and visually engaging user experiences. 
+            I am a software developer and UI/UX designer, combining technical expertise with a passion for creating intuitive and visually engaging user experiences. 
             </p>
             {/*btn and socials*/}
             <div className="flex flex-col xl:flex-row items-center gap-8">
